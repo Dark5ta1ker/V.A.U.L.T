@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "0035361ba1d993a6",
+    "id": "2ffcb94e6b933e0d",
     "type": "split",
     "children": [
       {
-        "id": "99ea55035b3847ab",
+        "id": "5d33d57deb4f609b",
         "type": "tabs",
         "children": [
           {
-            "id": "c588b33699c02e96",
+            "id": "b3b21e64ad8747e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c4623e169f4c977d",
+    "id": "921bcd14a129c3ab",
     "type": "split",
     "children": [
       {
-        "id": "91840a8e2b27197b",
+        "id": "b656a44f1ddbda3d",
         "type": "tabs",
         "children": [
           {
-            "id": "6b99a8c8973ab7e1",
+            "id": "c966de95e968445c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "72672e849f34c753",
+            "id": "3fdc0bb756276af2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "6e794c766025dc4e",
+            "id": "d8104e5e042f12f2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "8326f07e019e0ec5",
+    "id": "691a6ff33c2d61cf",
     "type": "split",
     "children": [
       {
-        "id": "1153e00b825d2ced",
+        "id": "ee94f22eb3c6ae37",
         "type": "tabs",
         "children": [
           {
-            "id": "fd839802c3d09694",
+            "id": "22f7d9f9da468c54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "1b8891e020632459",
+            "id": "e6324dcf17f49166",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f273e07f113541a1",
+            "id": "503eae505e14e830",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +114,15 @@
             }
           },
           {
-            "id": "dc2f0ad424febba1",
+            "id": "cc55c30f9ea703be",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "08bd20b3a96aa6bf",
+            "id": "b652bc6b8e8c52ee",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,8 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -157,20 +147,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b99a8c8973ab7e1",
-  "lastOpenFiles": [
-    "Заметки по винде/Вин 8_8.1/Центр обновлений/0х8070490.md",
-    "Заметки по винде/Что-то сломалось/TESO.md",
-    "Заметки по винде/Что-то сломалось/Сначала.md",
-    "Заметки по винде/Что-то сломалось/Включаем DISM.md",
-    "Заметки по винде/Вин 8_8.1/MMC.md",
-    "Заметки по винде/Вин 8_8.1/0x8024402с.md",
-    "Всякое/Без названия 4.md",
-    "Всякое/Без названия 3.md",
-    "Всякое/Без названия 2.md",
-    "Всякое/Без названия.md",
-    "Шаблоны/Формулы.md",
-    "111",
-    "Добро пожаловать.md"
-  ]
+  "active": "b3b21e64ad8747e5",
+  "lastOpenFiles": []
 }
