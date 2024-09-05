@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "3341fb6fbc07127d",
+    "id": "0035361ba1d993a6",
     "type": "split",
     "children": [
       {
-        "id": "28ad1fdb4e31cb91",
+        "id": "99ea55035b3847ab",
         "type": "tabs",
         "children": [
           {
-            "id": "1688a4fb575a7699",
+            "id": "c588b33699c02e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Информационные технологии и программирование/Лекция 1.md",
+                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95a3559c89271e2e",
+    "id": "c4623e169f4c977d",
     "type": "split",
     "children": [
       {
-        "id": "fdb85b1f732a2141",
+        "id": "91840a8e2b27197b",
         "type": "tabs",
         "children": [
           {
-            "id": "6b122ee331f49e38",
+            "id": "6b99a8c8973ab7e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "3aa32d164a9974bd",
+            "id": "72672e849f34c753",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Угроза",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "becade5364f0e2df",
+            "id": "6e794c766025dc4e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "a71d1ced957c421a",
+    "id": "8326f07e019e0ec5",
     "type": "split",
     "children": [
       {
-        "id": "4ac24feeb1bd18eb",
+        "id": "1153e00b825d2ced",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa0b0c7cc97cd32",
+            "id": "fd839802c3d09694",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/Информационные технологии и программирование/Лекция 1.md",
+                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "ba622292924a876b",
+            "id": "1b8891e020632459",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/Информационные технологии и программирование/Лекция 1.md",
+                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0b03699f28e7801d",
+            "id": "f273e07f113541a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,25 +120,17 @@
             }
           },
           {
-            "id": "92b0662ddf8419ed",
+            "id": "dc2f0ad424febba1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/Информационные технологии и программирование/Лекция 1.md"
+                "file": "Заметки по винде/Вин 8_8.1/0x8024402с.md"
               }
             }
           },
           {
-            "id": "3f173ef52bc17d83",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "07d9672db9d0036a",
+            "id": "08bd20b3a96aa6bf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,55 +157,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1688a4fb575a7699",
+  "active": "6b99a8c8973ab7e1",
   "lastOpenFiles": [
-    "Шаблоны/Формулы.md",
-    "Лекции/Информационные технологии и программирование/Лекция 1.md",
-    "Лекции/Информационные технологии и программирование",
+    "Заметки по винде/Вин 8_8.1/Центр обновлений/0х8070490.md",
+    "Заметки по винде/Что-то сломалось/TESO.md",
+    "Заметки по винде/Что-то сломалось/Сначала.md",
+    "Заметки по винде/Что-то сломалось/Включаем DISM.md",
+    "Заметки по винде/Вин 8_8.1/MMC.md",
+    "Заметки по винде/Вин 8_8.1/0x8024402с.md",
     "Всякое/Без названия 4.md",
     "Всякое/Без названия 3.md",
     "Всякое/Без названия 2.md",
     "Всякое/Без названия.md",
-    "Заметки по винде/Что-то сломалось/Сначала.md",
-    "Заметки по винде/Что-то сломалось/Включаем DISM.md",
-    "Лекции/ГСОП/Проверочная.md",
-    "Лекции/История России/Иван IV Грозный.md",
-    "Лекции/ГСОП",
-    "Лекции/ОРГ/ВДНХ.md",
-    "Лекции/История России/voprosi-stoglavogo-sobora.jpg",
-    "Лекции/История России/voprosi-stoglavogo-sobora.jpg.opdownload",
-    "Лекции/История России/pricini-soziva-stoglavogo-sobora.jpg",
-    "Лекции/История России/pricini-soziva-stoglavogo-sobora.jpg.opdownload",
-    "Лекции/История России/ulozenie-o-sluzbe-ivana-groznogo.jpg",
-    "Лекции/История России/ulozenie-o-sluzbe-ivana-groznogo.jpg.opdownload",
-    "Лекции/История России/prichini-voennoy-reformi-ivana-groznogo.jpg",
-    "Лекции/История России/prichini-voennoy-reformi-ivana-groznogo.jpg.opdownload",
-    "Лекции/История России/sudebnik-1550-istochniki.jpg",
-    "Лекции/История России/sudebnik-1550-istochniki.jpg.opdownload",
-    "Лекции/История России/sudebnik-1550-prichini.jpg",
-    "Лекции/История России/sudebnik-1550-prichini.jpg.opdownload",
-    "Лекции/История России/livonskaja-vojna-etapi.jpg",
-    "Лекции/История России/livonskaja-vojna-etapi.jpg.opdownload",
-    "Лекции/История России/Снимок.JPG",
-    "Лекции/История России/~нимок.tmp",
-    "Лекции/История России/pravlenie-ivana-groznogo.jpg",
-    "Лекции/История России/ivan-groznij-upravlenie-1.jpg",
-    "Лекции/Алгебра/Дз/Дз.md",
-    "Заметки по винде/Вин 8_8.1/MMC.md",
-    "Заметки по винде/Вин 8_8.1/0x8024402с.md",
-    "Заметки по винде/Вин 8_8.1/Центр обновлений/0х8070490.md",
-    "Заметки по винде/Вин 10/Центр обновлений/0х80070643.md",
-    "Заметки по винде/Что-то сломалось/TESO.md",
-    "Всякое/Лаба 1.md",
-    "Всякое/Лаба 2.md",
-    "Лекции/ОРГ/Лекция 1 сем 2.md",
-    "Лекции/ОРГ/Лекция 2.md",
-    "Лекции/ОРГ/Лекция 1.md",
-    "Без названия.md",
-    "Всякое/Исчезновение 1.md",
-    "Всякое/Исчезновение 2.md",
-    "Заметки по винде/Что-то сломалось/Без названия 1.md",
-    "Лекции/Алгебра/Без названия.canvas",
-    "Без названия.canvas"
+    "Шаблоны/Формулы.md",
+    "111",
+    "Добро пожаловать.md"
   ]
 }

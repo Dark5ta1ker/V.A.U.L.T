@@ -124,6 +124,7 @@ cBN
 co
 ci
 cK
+common
 delta
 div
 da
@@ -505,6 +506,7 @@ Pkm
 Pn
 Ps
 PE
+Play
 rho
 rdf
 rY
@@ -567,6 +569,7 @@ sq
 sS
 sM
 sI
+steamapps
 Sigma
 Sj
 SP
@@ -600,6 +603,8 @@ Sko
 Sc
 ST
 SW
+Steam
+Scrolls
 tau
 theta
 title
@@ -642,6 +647,7 @@ TP
 Ta
 Tk
 TV
+The
 upsilon
 uuid
 uf
@@ -743,6 +749,7 @@ zZ
 zr
 zw
 zsYW
+zosSteamStarter
 html
 head
 hZ
@@ -810,6 +817,7 @@ Cl
 CO
 CX
 CCl
+CommonRedist
 JFIF
 JT
 JMgL
@@ -873,6 +881,7 @@ EJ
 Em
 Ewo
 Ee
+Elder
 MM
 MpCehiHzreSzNTczkc
 Mu
@@ -1023,6 +1032,7 @@ ZN
 ZK
 ZG
 Zx
+Zenimax
 Vf
 Vu
 VI
@@ -1070,6 +1080,8 @@ vor
 vs
 vq
 vPz
+visual
+vcredist
 WV
 WO
 WG
