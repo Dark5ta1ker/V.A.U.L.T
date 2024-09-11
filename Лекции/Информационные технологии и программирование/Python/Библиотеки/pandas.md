@@ -11,3 +11,4 @@ import pandas
 ```python
 data = pandas.read_csv('файл.csv', index_col='название нужного столбца')
 ```
+
