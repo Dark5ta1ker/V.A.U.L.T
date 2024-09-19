@@ -16,7 +16,7 @@ s = pd.Series(data, index=index)
 - `DataFrame` — двумерный массив (таблица), в котором столбцами являются объекты класса `Series`.
 ## Команды
 
-```read_csv``` - Прочитать инфу из .csv файла
+```read_csv``` - Прочитать инфу из `.csv` файла
 
 ```python
 data = pandas.read_csv('файл.csv', index_col='название нужного столбца')
