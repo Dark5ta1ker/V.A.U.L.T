@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "nodes": [
     {
       "id": "2061a257c267cfc3",
@@ -236,4 +237,34 @@
     }
   ],
   "metadata": {}
+=======
+	"nodes":[
+		{"id":"20173e4ab9b36e91","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Задание 1.md","x":-560,"y":-420,"width":400,"height":260},
+		{"id":"ca7bf61f2745aaae","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2.md","x":-560,"y":240,"width":400,"height":140},
+		{"id":"0136d998225a3fbe","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 3.md","x":-560,"y":440,"width":400,"height":178},
+		{"id":"7495f41a088af710","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 4.md","x":-560,"y":680,"width":400,"height":152},
+		{"id":"5e7f864f45a90c24","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 5.md","x":-560,"y":900,"width":400,"height":157},
+		{"id":"8b547711b694a413","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Создать скрипт.md","x":-40,"y":-420,"width":620,"height":540},
+		{"id":"0963a538af19598e","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №1.md","x":720,"y":-420,"width":400,"height":240},
+		{"id":"26757c9b6697a4f7","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №2.md","x":720,"y":-122,"width":400,"height":242},
+		{"id":"b92083a035466cc1","type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №3.md","x":1240,"y":-420,"width":400,"height":240},
+		{"id":"f77ad2608e9452ff","x":1240,"y":-122,"width":400,"height":242,"type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №4.md"},
+		{"id":"c75a6529bef7fdc5","x":1760,"y":-420,"width":400,"height":240,"type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №5.md"},
+		{"id":"ff1eb11fe901128a","type":"text","text":"# Контрольная по SQL\n","x":-560,"y":-580,"width":400,"height":100}
+	],
+	"edges":[
+		{"id":"1eab3834a077d107","fromNode":"20173e4ab9b36e91","fromSide":"bottom","toNode":"ca7bf61f2745aaae","toSide":"top"},
+		{"id":"9391599c190ba9fe","fromNode":"ca7bf61f2745aaae","fromSide":"bottom","toNode":"0136d998225a3fbe","toSide":"top"},
+		{"id":"aa9de96d0fa30da1","fromNode":"0136d998225a3fbe","fromSide":"bottom","toNode":"7495f41a088af710","toSide":"top"},
+		{"id":"1049736bab388fcb","fromNode":"7495f41a088af710","fromSide":"bottom","toNode":"5e7f864f45a90c24","toSide":"top"},
+		{"id":"5e4f049a1c3d9df2","fromNode":"20173e4ab9b36e91","fromSide":"right","toNode":"8b547711b694a413","toSide":"left"},
+		{"id":"e5be05df7d747fa3","fromNode":"8b547711b694a413","fromSide":"right","toNode":"0963a538af19598e","toSide":"left"},
+		{"id":"e7d5baac036ca44f","fromNode":"0963a538af19598e","fromSide":"bottom","toNode":"26757c9b6697a4f7","toSide":"top"},
+		{"id":"48b333b9f041e55f","fromNode":"8b547711b694a413","fromSide":"bottom","toNode":"ca7bf61f2745aaae","toSide":"top"},
+		{"id":"77ebf34407ea7797","fromNode":"26757c9b6697a4f7","fromSide":"right","toNode":"b92083a035466cc1","toSide":"left"},
+		{"id":"d73c669037311c05","fromNode":"b92083a035466cc1","fromSide":"bottom","toNode":"f77ad2608e9452ff","toSide":"top"},
+		{"id":"e6d86fcba44254a6","fromNode":"f77ad2608e9452ff","fromSide":"right","toNode":"c75a6529bef7fdc5","toSide":"left"},
+		{"id":"f078ab40716f26e6","fromNode":"ff1eb11fe901128a","fromSide":"bottom","toNode":"20173e4ab9b36e91","toSide":"top"}
+	]
+>>>>>>> origin/main
 }
