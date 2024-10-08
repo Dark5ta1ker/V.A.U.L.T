@@ -15,5 +15,5 @@ PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/u
 Можно поступить и иначе. Содержимое файла `.bashrc` выполняется при каждом запуске оболочки Bash. Если добавить в конец файла команду `export`, то для каждой загружаемой оболочки будет автоматически выполняться добавление имени требуемой папки в переменную PATH, но только для текущего пользователя:
 ```sh
 vi ~/.bashrc
-export PATH=$PATH:/opt/local/bin
+export PATH=$PATH:/var/data/python/bin
 ```
