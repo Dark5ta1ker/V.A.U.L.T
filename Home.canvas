@@ -53,7 +53,7 @@
 		{
 			"id":"fb0614e38179a104",
 			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 4.md",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 4/Задание 4.md",
 			"styleAttributes":{},
 			"x":-620,
 			"y":687,
@@ -79,26 +79,6 @@
 			"y":-320,
 			"width":400,
 			"height":160
-		},
-		{
-			"id":"7bf5b2629b27895d",
-			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Хранимая функция.md",
-			"styleAttributes":{},
-			"x":160,
-			"y":120,
-			"width":400,
-			"height":80
-		},
-		{
-			"id":"218531f77c7e959e",
-			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Процедура.md",
-			"styleAttributes":{},
-			"x":160,
-			"y":258,
-			"width":400,
-			"height":85
 		},
 		{
 			"id":"2f989252bef988ee",
@@ -139,6 +119,27 @@
 			"y":-320,
 			"width":400,
 			"height":160
+		},
+		{"id":"b67942b28da92f2a","x":-60,"y":389,"width":400,"height":191,"type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 3/Триггер.md"},
+		{
+			"id":"218531f77c7e959e",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Процедура.md",
+			"styleAttributes":{},
+			"x":420,
+			"y":258,
+			"width":400,
+			"height":85
+		},
+		{
+			"id":"7bf5b2629b27895d",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Хранимая функция.md",
+			"styleAttributes":{},
+			"x":420,
+			"y":120,
+			"width":400,
+			"height":80
 		}
 	],
 	"edges":[
@@ -244,6 +245,14 @@
 			"fromNode":"0f7f81ed03011aa4",
 			"fromSide":"right",
 			"toNode":"218531f77c7e959e",
+			"toSide":"left"
+		},
+		{
+			"id":"d32a64ef6ec924e6",
+			"styleAttributes":{},
+			"fromNode":"47439b948a711faf",
+			"fromSide":"right",
+			"toNode":"b67942b28da92f2a",
 			"toSide":"left"
 		}
 	],
