@@ -4,19 +4,29 @@
 			"id":"bad529f9aed478f0",
 			"type":"group",
 			"styleAttributes":{},
-			"x":-680,
-			"y":-380,
+			"x":-760,
+			"y":-920,
 			"width":2500,
 			"height":1740,
 			"label":"Контрольная SQL"
+		},
+		{
+			"id":"3db3ba0a53b4045c",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 5/Задание 5.md",
+			"styleAttributes":{},
+			"x":-700,
+			"y":397,
+			"width":400,
+			"height":163
 		},
 		{
 			"id":"a26b5a51df52ed60",
 			"type":"file",
 			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Задание 1.md",
 			"styleAttributes":{},
-			"x":-620,
-			"y":-320,
+			"x":-700,
+			"y":-860,
 			"width":400,
 			"height":240
 		},
@@ -25,8 +35,8 @@
 			"type":"file",
 			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Создать скрипт.md",
 			"styleAttributes":{},
-			"x":-60,
-			"y":-320,
+			"x":-140,
+			"y":-860,
 			"width":400,
 			"height":400
 		},
@@ -35,68 +45,18 @@
 			"type":"file",
 			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Задание 2.md",
 			"styleAttributes":{},
-			"x":-620,
-			"y":160,
+			"x":-700,
+			"y":-380,
 			"width":400,
 			"height":140
-		},
-		{
-			"id":"47439b948a711faf",
-			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 3/Задание 3.md",
-			"styleAttributes":{},
-			"x":-620,
-			"y":389,
-			"width":400,
-			"height":191
-		},
-		{
-			"id":"fb0614e38179a104",
-			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 4/Задание 4.md",
-			"styleAttributes":{},
-			"x":-620,
-			"y":687,
-			"width":400,
-			"height":153
-		},
-		{
-			"id":"3db3ba0a53b4045c",
-			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 5.md",
-			"styleAttributes":{},
-			"x":-620,
-			"y":937,
-			"width":400,
-			"height":163
-		},
-		{
-			"id":"263deceafa09d78f",
-			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №1.md",
-			"styleAttributes":{},
-			"x":420,
-			"y":-320,
-			"width":400,
-			"height":160
-		},
-		{
-			"id":"2f989252bef988ee",
-			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №2.md",
-			"styleAttributes":{},
-			"x":420,
-			"y":-80,
-			"width":400,
-			"height":160
 		},
 		{
 			"id":"ea8f574d6d88dc0e",
 			"type":"file",
 			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №3.md",
 			"styleAttributes":{},
-			"x":900,
-			"y":-320,
+			"x":820,
+			"y":-860,
 			"width":400,
 			"height":160
 		},
@@ -105,41 +65,110 @@
 			"type":"file",
 			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №4.md",
 			"styleAttributes":{},
-			"x":900,
-			"y":-80,
+			"x":820,
+			"y":-620,
 			"width":400,
 			"height":160
+		},
+		{
+			"id":"fb0614e38179a104",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 4/Задание 4.md",
+			"styleAttributes":{},
+			"x":-700,
+			"y":147,
+			"width":400,
+			"height":153
 		},
 		{
 			"id":"ca6efc7fcf53b6f0",
 			"type":"file",
 			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №5.md",
 			"styleAttributes":{},
-			"x":1380,
-			"y":-320,
+			"x":1300,
+			"y":-860,
 			"width":400,
 			"height":160
 		},
-		{"id":"b67942b28da92f2a","x":-60,"y":389,"width":400,"height":191,"type":"file","file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 3/Триггер.md"},
 		{
-			"id":"218531f77c7e959e",
+			"id":"47439b948a711faf",
 			"type":"file",
-			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Процедура.md",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 3/Задание 3.md",
 			"styleAttributes":{},
-			"x":420,
-			"y":258,
+			"x":-700,
+			"y":-151,
 			"width":400,
-			"height":85
+			"height":191
+		},
+		{
+			"id":"21dc8f3167bc24a9",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 5/Индекс.md",
+			"styleAttributes":{},
+			"x":-140,
+			"y":397,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"263deceafa09d78f",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №1.md",
+			"styleAttributes":{},
+			"x":340,
+			"y":-860,
+			"width":400,
+			"height":160
+		},
+		{
+			"id":"2f989252bef988ee",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №2.md",
+			"styleAttributes":{},
+			"x":340,
+			"y":-620,
+			"width":400,
+			"height":160
 		},
 		{
 			"id":"7bf5b2629b27895d",
 			"type":"file",
 			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Хранимая функция.md",
 			"styleAttributes":{},
-			"x":420,
-			"y":120,
+			"x":340,
+			"y":-420,
 			"width":400,
 			"height":80
+		},
+		{
+			"id":"b67942b28da92f2a",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 3/Триггер.md",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-151,
+			"width":400,
+			"height":191
+		},
+		{
+			"id":"218531f77c7e959e",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 2/Процедура.md",
+			"styleAttributes":{},
+			"x":340,
+			"y":-282,
+			"width":400,
+			"height":85
+		},
+		{
+			"id":"f5fc916cbd927c70",
+			"type":"file",
+			"file":"Лекции/PostgreSQL/Контрольная по SQL/Задание 4/Представление.md",
+			"styleAttributes":{},
+			"x":340,
+			"y":24,
+			"width":400,
+			"height":400
 		}
 	],
 	"edges":[
@@ -182,14 +211,6 @@
 			"fromSide":"right",
 			"toNode":"e64208fb050c563a",
 			"toSide":"left"
-		},
-		{
-			"id":"517d07e065f8a727",
-			"styleAttributes":{},
-			"fromNode":"e64208fb050c563a",
-			"fromSide":"bottom",
-			"toNode":"0f7f81ed03011aa4",
-			"toSide":"top"
 		},
 		{
 			"id":"dd390f8d06652908",
@@ -253,6 +274,30 @@
 			"fromNode":"47439b948a711faf",
 			"fromSide":"right",
 			"toNode":"b67942b28da92f2a",
+			"toSide":"left"
+		},
+		{
+			"id":"f8303f4fc3b0a2cd",
+			"styleAttributes":{},
+			"fromNode":"fb0614e38179a104",
+			"fromSide":"right",
+			"toNode":"f5fc916cbd927c70",
+			"toSide":"left"
+		},
+		{
+			"id":"f7a22fb372e04ad1",
+			"styleAttributes":{},
+			"fromNode":"e64208fb050c563a",
+			"fromSide":"bottom",
+			"toNode":"7bf5b2629b27895d",
+			"toSide":"left"
+		},
+		{
+			"id":"f6ce40ee550163f8",
+			"styleAttributes":{},
+			"fromNode":"3db3ba0a53b4045c",
+			"fromSide":"right",
+			"toNode":"21dc8f3167bc24a9",
 			"toSide":"left"
 		}
 	],
