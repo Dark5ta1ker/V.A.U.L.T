@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1688a4fb575a7699",
+            "id": "75ae33d041610fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Физика/Лекция 1.md",
+                "file": "Лекции/Алгоритмы/Лекция 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 1"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/Физика/Лекция 1.md",
+                "file": "Лекции/Алгебра/Дз/Дз.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Дз"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/Физика/Лекция 1.md",
+                "file": "Лекции/Алгебра/Дз/ВМ Черников БВТ2351.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из ВМ Черников БВТ2351"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/Физика/Лекция 1.md"
-              }
+                "file": "Лекции/Алгебра/Дз/Дз.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Дз"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -142,15 +160,18 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,54 +186,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1688a4fb575a7699",
+  "active": "75ae33d041610fee",
   "lastOpenFiles": [
-    "Текстовый документ.txt",
-    "Всякое/Без названия.md",
-    "Лекции/Физика/Лекция 1.md",
-    "Лекции/Физика",
-    "Всякое/Без названия 2.md",
-    "Всякое/Без названия 3.md",
-    "Всякое/Без названия 4.md",
-    "Лекции/Информационные технологии и программирование/Лекция 1.md",
     "Шаблоны/Формулы.md",
-    "Лекции/Информационные технологии и программирование",
-    "Заметки по винде/Что-то сломалось/Сначала.md",
-    "Заметки по винде/Что-то сломалось/Включаем DISM.md",
-    "Лекции/ГСОП/Проверочная.md",
-    "Лекции/История России/Иван IV Грозный.md",
-    "Лекции/ГСОП",
-    "Лекции/ОРГ/ВДНХ.md",
-    "Лекции/История России/voprosi-stoglavogo-sobora.jpg",
-    "Лекции/История России/voprosi-stoglavogo-sobora.jpg.opdownload",
-    "Лекции/История России/pricini-soziva-stoglavogo-sobora.jpg",
-    "Лекции/История России/pricini-soziva-stoglavogo-sobora.jpg.opdownload",
-    "Лекции/История России/ulozenie-o-sluzbe-ivana-groznogo.jpg",
-    "Лекции/История России/ulozenie-o-sluzbe-ivana-groznogo.jpg.opdownload",
-    "Лекции/История России/prichini-voennoy-reformi-ivana-groznogo.jpg",
-    "Лекции/История России/prichini-voennoy-reformi-ivana-groznogo.jpg.opdownload",
-    "Лекции/История России/sudebnik-1550-istochniki.jpg",
-    "Лекции/История России/sudebnik-1550-istochniki.jpg.opdownload",
-    "Лекции/История России/sudebnik-1550-prichini.jpg",
-    "Лекции/История России/sudebnik-1550-prichini.jpg.opdownload",
-    "Лекции/История России/livonskaja-vojna-etapi.jpg",
-    "Лекции/История России/livonskaja-vojna-etapi.jpg.opdownload",
-    "Лекции/История России/Снимок.JPG",
-    "Лекции/История России/pravlenie-ivana-groznogo.jpg",
-    "Лекции/История России/ivan-groznij-upravlenie-1.jpg",
-    "Лекции/Алгебра/Дз/Дз.md",
-    "Заметки по винде/Вин 8_8.1/MMC.md",
-    "Заметки по винде/Вин 8_8.1/0x8024402с.md",
-    "Заметки по винде/Вин 8_8.1/Центр обновлений/0х8070490.md",
-    "Заметки по винде/Вин 10/Центр обновлений/0х80070643.md",
-    "Заметки по винде/Что-то сломалось/TESO.md",
-    "Всякое/Лаба 1.md",
-    "Всякое/Лаба 2.md",
-    "Лекции/ОРГ/Лекция 1 сем 2.md",
-    "Лекции/ОРГ/Лекция 2.md",
-    "Лекции/ОРГ/Лекция 1.md",
-    "Без названия.md",
-    "Всякое/Исчезновение 1.md",
+    "Лекции/Алгоритмы/Лекция 1.md",
+    "Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №1.md",
+    "Лекции/Алгоритмы",
+    "Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Задание 1.md",
+    "Лекции/Информационные технологии и программирование/Python/Основы/Цикл.md",
+    "Лекции/Информационные технологии и программирование/Python/Основы/Список.md",
+    "Лекции/Информационные технологии и программирование/Python/Основы/if.md",
+    "Лекции/Информационные технологии и программирование/Python/Библиотеки/seaborn.md",
+    "Лекции/Информационные технологии и программирование/Python/Библиотеки/pandas.md",
+    "Лекции/Информационные технологии и программирование/Python/Библиотеки/Numpy.md",
+    "Лекции/Информационные технологии и программирование/Python/Библиотеки/Math.md",
+    "Лекции/Информационные технологии и программирование/Python/Основы",
+    "Лекции/Информационные технологии и программирование/Python/Библиотеки",
+    "Лекции/Информационные технологии и программирование/Python",
+    "Лекции/Дискретная математика/Теория множеств/Теория множеств.md",
+    "Лекции/Дискретная математика/Теория множеств/Снимок 4.PNG",
+    "Лекции/Дискретная математика/Теория множеств/Снимок 3.PNG",
+    "Лекции/Дискретная математика/Теория множеств/Снимок 2.PNG",
+    "Лекции/Дискретная математика/Теория множеств/Снимок 1.PNG",
+    "Лекции/Дискретная математика/Теория множеств",
+    "Лекции/Дискретная математика",
+    "Линукс/Работа с директориями/Утилита rmdir.md",
+    "Линукс/Работа с директориями/Утилита mkdir.md",
+    "Линукс/Работа с директориями/Утилита ls.md",
+    "Линукс/Работа с директориями/Команда pwd.md",
+    "Линукс/Работа с директориями/Команда cd.md",
+    "Линукс/Работа с директориями/Абсолютные и относительные пути.md",
+    "Линукс/Работа с директориями/xdg-open ..md",
+    "Линукс/Настройка/Добавление шрифтов Microsoft.md",
+    "Линукс/Настройка/PATH.md",
+    "Линукс/man/whereis.md",
+    "Линукс/man/whatis.md",
+    "Линукс/man/mandb.md",
+    "Линукс/man/man -k (apropos).md",
+    "Линукс/man/man $раздел $файл.md",
+    "Линукс/Работа с директориями",
+    "Линукс/Настройка",
+    "Линукс/man",
+    "Линукс/Docker",
+    "Лекции/История России/Иван IV Грозный/voprosi-stoglavogo-sobora.jpg",
+    "Лекции/История России/Иван IV Грозный/ulozenie-o-sluzbe-ivana-groznogo.jpg",
+    "Лекции/История России/Иван IV Грозный/sudebnik-1550-prichini.jpg",
+    "Лекции/История России/Иван IV Грозный/sudebnik-1550-istochniki.jpg",
+    "Лекции/История России/Иван IV Грозный/pricini-soziva-stoglavogo-sobora.jpg",
+    "Лекции/История России/Иван IV Грозный/prichini-voennoy-reformi-ivana-groznogo.jpg",
+    "Home.canvas",
     "Лекции/Алгебра/Без названия.canvas",
     "Без названия.canvas"
   ]
