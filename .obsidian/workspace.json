@@ -11,14 +11,10 @@
             "id": "2f2157224089223b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V.A.U.L.T/Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Запрос №1"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -176,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f2157224089223b",
+  "active": "86f485b931e8a0fb",
   "lastOpenFiles": [
     "V.A.U.L.T/Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Задание 1.md",
     "V.A.U.L.T/Линукс/man/whatis.md",
