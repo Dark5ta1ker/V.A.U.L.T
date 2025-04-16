@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86f485b931e8a0fb",
+  "active": "5d054a6995ae14f8",
   "lastOpenFiles": [
+    "V.A.U.L.T/Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №1.md",
     "V.A.U.L.T/Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Задание 1.md",
     "V.A.U.L.T/Линукс/man/whatis.md",
     "V.A.U.L.T/Лекции/Информационные технологии и программирование/Лекция 1.md",
@@ -198,7 +199,6 @@
     "V.A.U.L.T/Python/Основы/if.md",
     "V.A.U.L.T/Python/Основы/Цикл.md",
     "V.A.U.L.T/Python/Основы/Список.md",
-    "V.A.U.L.T/Python/Библиотеки/seaborn.md",
-    "V.A.U.L.T/Python/Библиотеки/pandas.md"
+    "V.A.U.L.T/Python/Библиотеки/seaborn.md"
   ]
 }
