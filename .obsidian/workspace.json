@@ -1,22 +1,20 @@
 {
   "main": {
-    "id": "3341fb6fbc07127d",
+    "id": "00a55c37628c28b2",
     "type": "split",
     "children": [
       {
-        "id": "28ad1fdb4e31cb91",
+        "id": "fd4a47914ed18100",
         "type": "tabs",
         "children": [
           {
-            "id": "1688a4fb575a7699",
+            "id": "2f2157224089223b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекции/Физика/Лекция 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -25,44 +23,51 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95a3559c89271e2e",
+    "id": "2553bd630b7cef01",
     "type": "split",
     "children": [
       {
-        "id": "fdb85b1f732a2141",
+        "id": "5766a9d0cd8756e4",
         "type": "tabs",
         "children": [
           {
-            "id": "6b122ee331f49e38",
+            "id": "86f485b931e8a0fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
-            "id": "3aa32d164a9974bd",
+            "id": "cd14eddcf4e2bb33",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Угроза",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
-            "id": "becade5364f0e2df",
+            "id": "f0a0669e31c1b9c3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -72,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "a71d1ced957c421a",
+    "id": "57c190bcf2ef8f13",
     "type": "split",
     "children": [
       {
-        "id": "4ac24feeb1bd18eb",
+        "id": "e7f28e1a6a175dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa0b0c7cc97cd32",
+            "id": "b8fae5736751617a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/Физика/Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,69 +97,72 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "ba622292924a876b",
+            "id": "704fea939c0a16de",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/Физика/Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "0b03699f28e7801d",
+            "id": "6a41dfc28cee3f67",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
-            "id": "92b0662ddf8419ed",
+            "id": "480d56978b9f193c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/Физика/Лекция 1.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
             }
           },
           {
-            "id": "3f173ef52bc17d83",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "07d9672db9d0036a",
+            "id": "5d054a6995ae14f8",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -165,55 +172,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1688a4fb575a7699",
-  "lastOpenFiles": [
-    "Текстовый документ.txt",
-    "Всякое/Без названия.md",
-    "Лекции/Физика/Лекция 1.md",
-    "Лекции/Физика",
-    "Всякое/Без названия 2.md",
-    "Всякое/Без названия 3.md",
-    "Всякое/Без названия 4.md",
-    "Лекции/Информационные технологии и программирование/Лекция 1.md",
-    "Шаблоны/Формулы.md",
-    "Лекции/Информационные технологии и программирование",
-    "Заметки по винде/Что-то сломалось/Сначала.md",
-    "Заметки по винде/Что-то сломалось/Включаем DISM.md",
-    "Лекции/ГСОП/Проверочная.md",
-    "Лекции/История России/Иван IV Грозный.md",
-    "Лекции/ГСОП",
-    "Лекции/ОРГ/ВДНХ.md",
-    "Лекции/История России/voprosi-stoglavogo-sobora.jpg",
-    "Лекции/История России/voprosi-stoglavogo-sobora.jpg.opdownload",
-    "Лекции/История России/pricini-soziva-stoglavogo-sobora.jpg",
-    "Лекции/История России/pricini-soziva-stoglavogo-sobora.jpg.opdownload",
-    "Лекции/История России/ulozenie-o-sluzbe-ivana-groznogo.jpg",
-    "Лекции/История России/ulozenie-o-sluzbe-ivana-groznogo.jpg.opdownload",
-    "Лекции/История России/prichini-voennoy-reformi-ivana-groznogo.jpg",
-    "Лекции/История России/prichini-voennoy-reformi-ivana-groznogo.jpg.opdownload",
-    "Лекции/История России/sudebnik-1550-istochniki.jpg",
-    "Лекции/История России/sudebnik-1550-istochniki.jpg.opdownload",
-    "Лекции/История России/sudebnik-1550-prichini.jpg",
-    "Лекции/История России/sudebnik-1550-prichini.jpg.opdownload",
-    "Лекции/История России/livonskaja-vojna-etapi.jpg",
-    "Лекции/История России/livonskaja-vojna-etapi.jpg.opdownload",
-    "Лекции/История России/Снимок.JPG",
-    "Лекции/История России/pravlenie-ivana-groznogo.jpg",
-    "Лекции/История России/ivan-groznij-upravlenie-1.jpg",
-    "Лекции/Алгебра/Дз/Дз.md",
-    "Заметки по винде/Вин 8_8.1/MMC.md",
-    "Заметки по винде/Вин 8_8.1/0x8024402с.md",
-    "Заметки по винде/Вин 8_8.1/Центр обновлений/0х8070490.md",
-    "Заметки по винде/Вин 10/Центр обновлений/0х80070643.md",
-    "Заметки по винде/Что-то сломалось/TESO.md",
-    "Всякое/Лаба 1.md",
-    "Всякое/Лаба 2.md",
-    "Лекции/ОРГ/Лекция 1 сем 2.md",
-    "Лекции/ОРГ/Лекция 2.md",
-    "Лекции/ОРГ/Лекция 1.md",
-    "Без названия.md",
-    "Всякое/Исчезновение 1.md",
-    "Лекции/Алгебра/Без названия.canvas",
-    "Без названия.canvas"
-  ]
+  "active": "86f485b931e8a0fb",
+  "lastOpenFiles": []
 }
