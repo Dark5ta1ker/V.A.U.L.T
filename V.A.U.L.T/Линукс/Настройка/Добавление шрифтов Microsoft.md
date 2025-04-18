@@ -14,3 +14,5 @@ sudo apt install ttf-mscorefonts-installer
  9. Trebuchet
  10. Verdana
  11. Webdings.
+
+#linux 

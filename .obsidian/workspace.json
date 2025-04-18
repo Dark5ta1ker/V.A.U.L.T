@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4a47914ed18100",
+        "id": "309c6883903460ca",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2157224089223b",
+            "id": "395ec3c396f6b647",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -172,33 +172,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d054a6995ae14f8",
+  "active": "395ec3c396f6b647",
   "lastOpenFiles": [
-    "V.A.U.L.T/Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Запрос №1.md",
-    "V.A.U.L.T/Лекции/PostgreSQL/Контрольная по SQL/Задание 1/Задание 1.md",
-    "V.A.U.L.T/Линукс/man/whatis.md",
-    "V.A.U.L.T/Лекции/Информационные технологии и программирование/Лекция 1.md",
-    "V.A.U.L.T/Лекции/Введение в информационные технологии, лекции/Лекция 2/Лекция 2.md",
-    "V.A.U.L.T/Лекции/Введение в информационные технологии, лекции/Лекция 1/Лекция 1.md",
-    "V.A.U.L.T/Лекции/Основы кибернетики/Лекция 2/Лекция 2.md",
-    "V.A.U.L.T/Лекции/Основы кибернетики/Лекция 1/Лекция 1.md",
-    "V.A.U.L.T/Без названия.md",
-    "V.A.U.L.T/Линукс/man/mandb.md",
-    "V.A.U.L.T/Линукс/man/man $раздел $файл.md",
-    "V.A.U.L.T/Линукс/man/man $команда.md",
-    "V.A.U.L.T/Линукс/man/man $имя_файла_конфигурации.md",
-    "V.A.U.L.T/Линукс/man/man $демон.md",
-    "V.A.U.L.T/Линукс/man/man -k (apropos).md",
-    "V.A.U.L.T/Линукс/Docker/Docker Engine.md",
-    "V.A.U.L.T/Линукс/Docker/Docker Desktop.md",
+    "V.A.U.L.T/Линукс/Работа с директориями/Команда cd.md",
     "V.A.U.L.T/Линукс/Настройка/PATH.md",
     "V.A.U.L.T/Линукс/Настройка/Добавление шрифтов Microsoft.md",
-    "V.A.U.L.T/Лекции/РЯиКР/Лекция 2.md",
-    "V.A.U.L.T/Лекции/РЯиКР/Лекция 1.md",
-    "V.A.U.L.T/Лекции/Физика/Лекция 1.md",
-    "V.A.U.L.T/Python/Основы/if.md",
-    "V.A.U.L.T/Python/Основы/Цикл.md",
-    "V.A.U.L.T/Python/Основы/Список.md",
-    "V.A.U.L.T/Python/Библиотеки/seaborn.md"
+    "V.A.U.L.T/Линукс/Docker/Docker Desktop.md",
+    "V.A.U.L.T/Линукс/Docker/Docker Engine.md",
+    "V.A.U.L.T/Линукс/Docker/Docker MySQL.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/0_Введение Numpy.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/Вращение.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/reshape().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/arange().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/resize().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/zeros().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/4 действия.md",
+    "Python/ИТИП/try.py",
+    "V.A.U.L.T/Python/Библиотеки/pandas.md",
+    "V.A.U.L.T/Python/Библиотеки/seaborn.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/size.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/shape.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/ones().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/ndim.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/linspace().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/itemsize.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/eye().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/dtype.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/array().md",
+    "V.A.U.L.T/Python/Библиотеки/Math/lcm(integers).md",
+    "V.A.U.L.T/Python/Библиотеки/Math/log(x, base).md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "V.A.U.L.T/Python/Библиотеки/Math"
   ]
 }

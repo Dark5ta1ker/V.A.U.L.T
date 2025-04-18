@@ -38,3 +38,5 @@ services:
 ```
 4. Скачать с [GitHub](https://github.com/gmaslov-dev/docker-php-xdebug/tree/main) папку `docker`, и переместить ее в папку с файлом `docker-compose.yml`
 5. В этой же папке открыть консоль и выполнить команду `docker compose up -d`
+
+#docker #linux
