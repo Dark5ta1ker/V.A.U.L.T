@@ -11,14 +11,10 @@
             "id": "395ec3c396f6b647",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V.A.U.L.T/Kotlin/База/if.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "if"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Переменны",
+                "query": "tag:#УЦиклы",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,10 +174,30 @@
   },
   "active": "395ec3c396f6b647",
   "lastOpenFiles": [
+    "V.A.U.L.T/Kotlin/База/Диапазоны.md",
+    "V.A.U.L.T/Kotlin/База/Break, Continue, Return.md",
+    "V.A.U.L.T/Kotlin/База/for.md",
     "V.A.U.L.T/Kotlin/База/when.md",
-    "V.A.U.L.T/Kotlin/База/Переменные.md",
+    "V.A.U.L.T/Kotlin/База/while.md",
     "V.A.U.L.T/Kotlin/База/if.md",
     "V.A.U.L.T/Kotlin/База/Строки.md",
+    "V.A.U.L.T/Kotlin/База/Переменные.md",
+    "V.A.U.L.T/Python/Основы/if.md",
+    "V.A.U.L.T/Python/Основы/Цикл.md",
+    "V.A.U.L.T/Python/Основы/Список.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/reshape().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/ones().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/ndim.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/linspace().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/itemsize.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/eye().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/dtype.md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/array().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/arange().md",
+    "V.A.U.L.T/Python/Библиотеки/Numpy/0_Введение Numpy.md",
+    "V.A.U.L.T/Home.canvas",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
     "V.A.U.L.T/Kotlin/База/Без названия",
     "V.A.U.L.T/Линукс/Настройка/Добавление шрифтов Microsoft.md",
     "V.A.U.L.T/Kotlin/База",
@@ -192,27 +208,8 @@
     "Лекции",
     "V.A.U.L.T/Линукс/Работа с директориями/Команда cd.md",
     "V.A.U.L.T/Линукс/Настройка/PATH.md",
-    "V.A.U.L.T/Линукс/Docker/Docker Desktop.md",
-    "V.A.U.L.T/Линукс/Docker/Docker Engine.md",
-    "V.A.U.L.T/Линукс/Docker/Docker MySQL.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/0_Введение Numpy.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/Вращение.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/reshape().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/arange().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/resize().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/zeros().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/4 действия.md",
     "Python/ИТИП/try.py",
-    "V.A.U.L.T/Python/Библиотеки/pandas.md",
-    "V.A.U.L.T/Python/Библиотеки/seaborn.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/size.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/shape.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/ones().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/ndim.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/linspace().md",
     "V.A.U.L.T/Python/Библиотеки/Numpy",
-    "Без названия 1.canvas",
-    "Без названия.canvas",
     "V.A.U.L.T/Python/Библиотеки/Math"
   ]
 }
