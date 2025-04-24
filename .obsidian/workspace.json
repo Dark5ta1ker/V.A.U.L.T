@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V.A.U.L.T/Kotlin/База/when.md",
+                "file": "V.A.U.L.T/Kotlin/База/if.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "when"
+              "title": "if"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "395ec3c396f6b647",
   "lastOpenFiles": [
-    "V.A.U.L.T/Kotlin/База/if.md",
     "V.A.U.L.T/Kotlin/База/when.md",
-    "V.A.U.L.T/Kotlin/База/Строки.md",
     "V.A.U.L.T/Kotlin/База/Переменные.md",
+    "V.A.U.L.T/Kotlin/База/if.md",
+    "V.A.U.L.T/Kotlin/База/Строки.md",
     "V.A.U.L.T/Kotlin/База/Без названия",
     "V.A.U.L.T/Линукс/Настройка/Добавление шрифтов Microsoft.md",
     "V.A.U.L.T/Kotlin/База",
