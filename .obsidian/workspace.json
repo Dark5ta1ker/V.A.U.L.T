@@ -11,10 +11,14 @@
             "id": "395ec3c396f6b647",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "V.A.U.L.T/Kotlin/База/list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "list"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#УЦиклы",
+                "query": "tag:#Диапазоны",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,17 +173,20 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "395ec3c396f6b647",
   "lastOpenFiles": [
-    "V.A.U.L.T/Kotlin/База/Диапазоны.md",
-    "V.A.U.L.T/Kotlin/База/Break, Continue, Return.md",
     "V.A.U.L.T/Kotlin/База/for.md",
+    "V.A.U.L.T/Kotlin/База/Break, Continue, Return.md",
+    "V.A.U.L.T/Kotlin/База/Массивы.md",
+    "V.A.U.L.T/Kotlin/База/Диапазоны.md",
+    "V.A.U.L.T/Kotlin/База/if.md",
+    "V.A.U.L.T/Kotlin/База/list.md",
     "V.A.U.L.T/Kotlin/База/when.md",
     "V.A.U.L.T/Kotlin/База/while.md",
-    "V.A.U.L.T/Kotlin/База/if.md",
     "V.A.U.L.T/Kotlin/База/Строки.md",
     "V.A.U.L.T/Kotlin/База/Переменные.md",
     "V.A.U.L.T/Python/Основы/if.md",
@@ -206,8 +213,6 @@
     "conflict-files-obsidian-git.md",
     "Лекции/Алгоритмы",
     "Лекции",
-    "V.A.U.L.T/Линукс/Работа с директориями/Команда cd.md",
-    "V.A.U.L.T/Линукс/Настройка/PATH.md",
     "Python/ИТИП/try.py",
     "V.A.U.L.T/Python/Библиотеки/Numpy",
     "V.A.U.L.T/Python/Библиотеки/Math"
