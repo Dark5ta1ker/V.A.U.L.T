@@ -31,3 +31,5 @@ mutableList.forEach {
 	it * 2 //например
 }
 ```
+
+#Kotlin #База #List

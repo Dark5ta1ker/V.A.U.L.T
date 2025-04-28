@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V.A.U.L.T/Kotlin/База/list.md",
+                "file": "V.A.U.L.T/Всякое/Без названия 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "list"
+              "title": "Без названия 10"
             }
           }
         ]
@@ -170,7 +170,6 @@
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
@@ -179,12 +178,17 @@
   },
   "active": "395ec3c396f6b647",
   "lastOpenFiles": [
+    "V.A.U.L.T/Всякое/Без названия 1.md",
+    "V.A.U.L.T/Всякое/Без названия 2.md",
+    "V.A.U.L.T/Kotlin/База/list.md",
+    "V.A.U.L.T/Kotlin/База/Массивы.md",
+    "V.A.U.L.T/Линукс/Настройка/PATH.md",
+    "V.A.U.L.T/Линукс/Настройка/Добавление шрифтов Microsoft.md",
+    "Лекции/Алгоритмы/Лекция 1.md",
     "V.A.U.L.T/Kotlin/База/for.md",
     "V.A.U.L.T/Kotlin/База/Break, Continue, Return.md",
-    "V.A.U.L.T/Kotlin/База/Массивы.md",
     "V.A.U.L.T/Kotlin/База/Диапазоны.md",
     "V.A.U.L.T/Kotlin/База/if.md",
-    "V.A.U.L.T/Kotlin/База/list.md",
     "V.A.U.L.T/Kotlin/База/when.md",
     "V.A.U.L.T/Kotlin/База/while.md",
     "V.A.U.L.T/Kotlin/База/Строки.md",
@@ -200,17 +204,12 @@
     "V.A.U.L.T/Python/Библиотеки/Numpy/eye().md",
     "V.A.U.L.T/Python/Библиотеки/Numpy/dtype.md",
     "V.A.U.L.T/Python/Библиотеки/Numpy/array().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/arange().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/0_Введение Numpy.md",
     "V.A.U.L.T/Home.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "V.A.U.L.T/Kotlin/База/Без названия",
-    "V.A.U.L.T/Линукс/Настройка/Добавление шрифтов Microsoft.md",
     "V.A.U.L.T/Kotlin/База",
     "V.A.U.L.T/Kotlin",
-    "Лекции/Алгоритмы/Лекция 1.md",
-    "conflict-files-obsidian-git.md",
     "Лекции/Алгоритмы",
     "Лекции",
     "Python/ИТИП/try.py",
