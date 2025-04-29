@@ -31,3 +31,4 @@ mutableList.forEach {
 	it * 2 //например
 }
 ```
+12. 
