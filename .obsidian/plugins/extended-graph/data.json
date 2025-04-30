@@ -27,7 +27,7 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": false,
+    "collapse-filter": true,
     "search": "",
     "showTags": true,
     "showAttachments": false,
@@ -35,8 +35,8 @@
     "showOrphans": false,
     "collapse-color-groups": true,
     "colorGroups": [],
-    "collapse-display": false,
-    "showArrow": false,
+    "collapse-display": true,
+    "showArrow": true,
     "textFadeMultiplier": 0,
     "nodeSizeMultiplier": 1,
     "lineSizeMultiplier": 1,
@@ -46,7 +46,7 @@
     "linkStrength": 1,
     "linkDistance": 250,
     "scale": 0.4444444444444444,
-    "close": false
+    "close": true
   },
   "states": [
     {
@@ -113,11 +113,11 @@
     "localgraph": {
       "auto-enabled": true,
       "tags": true,
-      "properties": false,
+      "properties": true,
       "property-key": true,
       "links": true,
       "curvedLinks": false,
-      "folders": false,
+      "folders": true,
       "imagesFromProperty": true,
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
@@ -127,8 +127,8 @@
       "target": false,
       "elements-stats": true,
       "names": false,
-      "icons": false,
-      "arrows": false
+      "icons": true,
+      "arrows": true
     }
   },
   "shapeQueries": {
@@ -215,7 +215,7 @@
   "focusScaleFactor": 1.8,
   "borderUnresolved": "",
   "invertArrows": false,
-  "flatArrows": false,
+  "flatArrows": true,
   "numberOfCharacters": null,
   "showOnlyFileName": false,
   "noExtension": false,
