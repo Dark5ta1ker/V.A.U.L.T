@@ -1,0 +1,129 @@
+/*
+ Color reference:
+ https://docs.obsidian.md/Reference/CSS+variables/Foundations/Colors
+*/
+
+.every-day-calendar {
+
+    --grid-gap: 0.3vh;
+    --height: 60vh;
+    --width: 50vw;
+    --computed-width: calc( var(--sum-box-widths) + (var(--num-months) - 1) * var(--grid-gap) );
+
+    /* internals, do not override */
+    --num-months: 12 !important;
+    --num-rows: 32 !important; /* months + 31 days */
+    --box-aspect-ratio: calc( var(--num-months) / var(--num-rows) )  !important;
+    --sum-box-heights:  calc( var(--height) - (var(--num-rows) - 1) * var(--grid-gap) ) !important;
+    --sum-box-widths:   calc( var(--sum-box-heights) * var(--box-aspect-ratio) ) !important;
+
+
+    /* to debug */
+    /*outline: 1px solid var(--text-muted); /**/
+}
+
+.every-day-calendar.outermost {
+    display: grid;
+    grid-template-columns: 100%;
+    gap: var(--grid-gap);
+    width: min(var(--computed-width), var(--width));
+}
+
+.every-day-calendar.year {
+    text-align: center;
+}
+
+.every-day-calendar.boxes {
+    display: grid;
+    grid-template-columns: repeat(var(--num-months), 1fr);
+    grid-gap: var(--grid-gap);
+    grid-auto-flow: dense;
+
+    /* border: 1px solid var(--text-error); */
+}
+
+.every-day-calendar.month.outer {
+    container-type: size;
+    aspect-ratio: 1;
+}
+
+@container (min-width: 0px) {
+    .every-day-calendar.month.inner {
+        font-size: 70cqh;
+        text-align: center;
+        margin: 0;
+    }
+}
+
+.every-day-calendar.box {
+    display: flex;
+    flex-direction: row;
+    color: black;
+    background-color: #FF00FF;
+    border-radius: 25%;
+    aspect-ratio: 1;
+}
+
+.every-day-calendar.box[value="0"] {
+    background-color: var(--background-secondary);
+}
+
+.every-day-calendar.box[value="1"] {
+    background-color: var(--background-modifier-border);
+}
+
+.every-day-calendar.box[value="2"] {
+    background-color: var(--text-accent);
+}
+
+/*
+  This seems necessary since `attr(month <number>)` is not yet supported
+  https://developer.mozilla.org/en-US/docs/Web/CSS/attr#browser_compatibility
+*/
+.every-day-calendar.box[month="1"] {
+    grid-column: 1;
+}
+
+.every-day-calendar.box[month="2"] {
+    grid-column: 2;
+}
+
+.every-day-calendar.box[month="3"] {
+    grid-column: 3;
+}
+
+.every-day-calendar.box[month="4"] {
+    grid-column: 4;
+}
+
+.every-day-calendar.box[month="5"] {
+    grid-column: 5;
+}
+
+.every-day-calendar.box[month="6"] {
+    grid-column: 6;
+}
+
+.every-day-calendar.box[month="7"] {
+    grid-column: 7;
+}
+
+.every-day-calendar.box[month="8"] {
+    grid-column: 8;
+}
+
+.every-day-calendar.box[month="9"] {
+    grid-column: 9;
+}
+
+.every-day-calendar.box[month="10"] {
+    grid-column: 10;
+}
+
+.every-day-calendar.box[month="11"] {
+    grid-column: 11;
+}
+
+.every-day-calendar.box[month="12"] {
+    grid-column: 12;
+}
