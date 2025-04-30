@@ -31,5 +31,9 @@ mutableList.forEach {
 	it * 2 //например
 }
 ```
+<<<<<<< HEAD
+12. 
+=======
 
 #Kotlin #База #List
+>>>>>>> origin/main

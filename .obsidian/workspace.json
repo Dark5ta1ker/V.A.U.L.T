@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "661dcfaec96a9b32",
+    "id": "89b93912ce295a9e",
     "type": "split",
     "children": [
       {
-        "id": "049ee395617437e8",
+        "id": "32be6196ab50304f",
         "type": "tabs",
         "children": [
           {
-            "id": "65b6953e6addf909",
+            "id": "2d151661bfbe1da3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a454dfcd52bd796",
+    "id": "20b10010efe692ca",
     "type": "split",
     "children": [
       {
-        "id": "ab8e944bd3ef9802",
+        "id": "35cee8061d40bda7",
         "type": "tabs",
         "children": [
           {
-            "id": "ec33ad3e9a23a880",
+            "id": "7de439092edff70a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "5015d4c5381b6004",
+            "id": "9993226f2b64f4f6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "b683ff1936d99878",
+            "id": "c0d927b62141b62c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "69737c309898e6c5",
+    "id": "d86ca3c1be9b6335",
     "type": "split",
     "children": [
       {
-        "id": "da3d632ef03f8f29",
+        "id": "5a4efe446459524e",
         "type": "tabs",
         "children": [
           {
-            "id": "fd085013b39dbfe9",
+            "id": "fbaf16b4b923b20d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "fb3e359fa711ed9c",
+            "id": "a39425bf4316bd2e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "ae93c33d6d22ee65",
+            "id": "8f04800052fbb972",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "06f38b6d3aacbfe9",
+            "id": "1d4aa1b680f21685",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -145,7 +145,7 @@
             }
           },
           {
-            "id": "15a99186454404e0",
+            "id": "8764d426cd8ef54b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,6 +172,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65b6953e6addf909",
+  "active": "2d151661bfbe1da3",
   "lastOpenFiles": []
 }
