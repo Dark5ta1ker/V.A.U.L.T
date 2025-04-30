@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "00a55c37628c28b2",
+    "id": "661dcfaec96a9b32",
     "type": "split",
     "children": [
       {
-        "id": "309c6883903460ca",
+        "id": "049ee395617437e8",
         "type": "tabs",
         "children": [
           {
-            "id": "395ec3c396f6b647",
+            "id": "65b6953e6addf909",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V.A.U.L.T/Всякое/Без названия 10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Без названия 10"
-            }
-          },
-          {
-            "id": "80dd585e485f6438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2553bd630b7cef01",
+    "id": "6a454dfcd52bd796",
     "type": "split",
     "children": [
       {
-        "id": "5766a9d0cd8756e4",
+        "id": "ab8e944bd3ef9802",
         "type": "tabs",
         "children": [
           {
-            "id": "86f485b931e8a0fb",
+            "id": "ec33ad3e9a23a880",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +44,12 @@
             }
           },
           {
-            "id": "cd14eddcf4e2bb33",
+            "id": "5015d4c5381b6004",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Диапазоны",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +61,7 @@
             }
           },
           {
-            "id": "f0a0669e31c1b9c3",
+            "id": "b683ff1936d99878",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "57c190bcf2ef8f13",
+    "id": "69737c309898e6c5",
     "type": "split",
     "children": [
       {
-        "id": "e7f28e1a6a175dc5",
+        "id": "da3d632ef03f8f29",
         "type": "tabs",
         "children": [
           {
-            "id": "b8fae5736751617a",
+            "id": "fd085013b39dbfe9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +103,7 @@
             }
           },
           {
-            "id": "704fea939c0a16de",
+            "id": "fb3e359fa711ed9c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +116,7 @@
             }
           },
           {
-            "id": "6a41dfc28cee3f67",
+            "id": "ae93c33d6d22ee65",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +131,7 @@
             }
           },
           {
-            "id": "480d56978b9f193c",
+            "id": "06f38b6d3aacbfe9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -164,7 +145,7 @@
             }
           },
           {
-            "id": "5d054a6995ae14f8",
+            "id": "15a99186454404e0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -191,45 +172,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80dd585e485f6438",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "V.A.U.L.T/Всякое/Без названия 10.md",
-    "Python",
-    "V.A.U.L.T/Всякое/Без названия 1.md",
-    "V.A.U.L.T/Всякое/Без названия 2.md",
-    "V.A.U.L.T/Kotlin/База/list.md",
-    "V.A.U.L.T/Kotlin/База/Массивы.md",
-    "V.A.U.L.T/Линукс/Настройка/PATH.md",
-    "V.A.U.L.T/Линукс/Настройка/Добавление шрифтов Microsoft.md",
-    "Лекции/Алгоритмы/Лекция 1.md",
-    "V.A.U.L.T/Kotlin/База/for.md",
-    "V.A.U.L.T/Kotlin/База/Break, Continue, Return.md",
-    "V.A.U.L.T/Kotlin/База/Диапазоны.md",
-    "V.A.U.L.T/Kotlin/База/if.md",
-    "V.A.U.L.T/Kotlin/База/when.md",
-    "V.A.U.L.T/Kotlin/База/while.md",
-    "V.A.U.L.T/Kotlin/База/Строки.md",
-    "V.A.U.L.T/Kotlin/База/Переменные.md",
-    "V.A.U.L.T/Python/Основы/if.md",
-    "V.A.U.L.T/Python/Основы/Цикл.md",
-    "V.A.U.L.T/Python/Основы/Список.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/reshape().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/ones().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/ndim.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/linspace().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/itemsize.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/eye().md",
-    "V.A.U.L.T/Home.canvas",
-    "Без названия.canvas",
-    "Без названия 1.canvas",
-    "V.A.U.L.T/Kotlin/База/Без названия",
-    "V.A.U.L.T/Kotlin/База",
-    "V.A.U.L.T/Kotlin",
-    "Лекции/Алгоритмы",
-    "Лекции",
-    "Python/ИТИП/try.py",
-    "V.A.U.L.T/Python/Библиотеки/Numpy",
-    "V.A.U.L.T/Python/Библиотеки/Math"
-  ]
+  "active": "65b6953e6addf909",
+  "lastOpenFiles": []
 }
