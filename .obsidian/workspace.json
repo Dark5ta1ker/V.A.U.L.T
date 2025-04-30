@@ -11,17 +11,10 @@
             "id": "fbd7130780bf4844",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -56,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbd7130780bf4844",
+  "active": "86f485b931e8a0fb",
   "lastOpenFiles": [
-    "V.A.U.L.T/Home.canvas",
+    "V.A.U.L.T/Kotlin/База/for.md",
     "Без названия.canvas",
+    "V.A.U.L.T/Home.canvas",
     "V.A.U.L.T/Kotlin/База/list.md",
     "V.A.U.L.T/Kotlin/ООП/Класс.md",
     "V.A.U.L.T/Kotlin/База/Break, Continue, Return.md",
@@ -196,7 +190,6 @@
     "V.A.U.L.T/Kotlin/База/Массивы.md",
     "V.A.U.L.T/Kotlin/База/Переменные.md",
     "V.A.U.L.T/Kotlin/База/Строки.md",
-    "V.A.U.L.T/Kotlin/База/for.md",
     "V.A.U.L.T/Kotlin/База",
     "V.A.U.L.T/Kotlin",
     "V.A.U.L.T/Линукс/Настройка/Добавление шрифтов Microsoft.md",
