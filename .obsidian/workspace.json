@@ -11,10 +11,14 @@
             "id": "fbd7130780bf4844",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "V.A.U.L.T/Компьютерные сети/TCP_IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP_IP"
             }
           }
         ]
@@ -172,8 +176,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86f485b931e8a0fb",
+  "active": "fbd7130780bf4844",
   "lastOpenFiles": [
+    "V.A.U.L.T/Компьютерные сети/OSI.md",
+    "V.A.U.L.T/Компьютерные сети/TCP_IP.md",
+    "Модель OSI.md",
+    "V.A.U.L.T/Компьютерные сети/Понятия/Интерфейс.md",
+    "V.A.U.L.T/Шаблоны/Формулы.md",
+    "V.A.U.L.T/Компьютерные сети/Понятия/Стек.md",
+    "V.A.U.L.T/Компьютерные сети/Понятия.md",
+    "V.A.U.L.T/Компьютерные сети/Понятия/Протокол.md",
+    "V.A.U.L.T/Компьютерные сети/Понятия/Сервис.md",
+    "V.A.U.L.T/Компьютерные сети/Понятия",
+    "стек.md",
+    "стеке.md",
+    "V.A.U.L.T/Компьютерные сети",
     "V.A.U.L.T/Kotlin/База/for.md",
     "Без названия.canvas",
     "V.A.U.L.T/Home.canvas",
@@ -196,16 +213,6 @@
     "Лекции/Алгоритмы/Лекция 1.md",
     "Лекции/Алгоритмы",
     "Лекции",
-    "V.A.U.L.T/Линукс/Работа с директориями/Команда cd.md",
-    "V.A.U.L.T/Линукс/Настройка/PATH.md",
-    "V.A.U.L.T/Линукс/Docker/Docker Desktop.md",
-    "V.A.U.L.T/Линукс/Docker/Docker Engine.md",
-    "V.A.U.L.T/Линукс/Docker/Docker MySQL.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/0_Введение Numpy.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/Вращение.md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/reshape().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/arange().md",
-    "V.A.U.L.T/Python/Библиотеки/Numpy/resize().md",
     "Python/ИТИП/try.py",
     "V.A.U.L.T/Python/Библиотеки/Numpy",
     "Без названия 1.canvas",
